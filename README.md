@@ -138,7 +138,7 @@ class GuhaneshL:
 ## 💼 Work Experience
 
 <details>
-<summary><b>🔬 Zetpeak — Cyber Forensic Examiner | Cyber Security Researcher</b> &nbsp;|&nbsp; Sep 2024 – Present &nbsp;|&nbsp; Bengaluru, India</summary>
+<summary><b>🔬 Zetpeak — Cyber Forensic Examiner | Cyber Security Researcher</b> &nbsp;|&nbsp; Sep 2023 – Present &nbsp;|&nbsp; Bengaluru, India</summary>
 
 <br/>
 
@@ -201,7 +201,7 @@ class GuhaneshL:
 
 | Degree | Institution | Year | Score |
 |:-------|:------------|:----:|:-----:|
-| B.E. Electrical & Electronics Engineering | Kumaraguru College of Technology, Anna University, Coimbatore | April 2024 | CGPA: 7.84 |
+| B.E. Electrical & Electronics Engineering | Kumaraguru College of Technology, Anna University, Coimbatore | April 2023 | CGPA: 7.84 |
 
 </div>
 
