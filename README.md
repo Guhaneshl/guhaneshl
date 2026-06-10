@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Guhanesh%20L&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cyber%20Forensic%20Examiner%20%7C%20Security%20Researcher%20%7C%20Digital%20Investigator&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,000000,111111,222222,333333&height=180&section=header&text=Guhanesh%20L&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Cyber%20Forensic%20Examiner%20%7C%20Security%20Researcher%20%7C%20Digital%20Investigator&descAlignY=62&descSize=16&descColor=cccccc" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Cyber+Forensic+Examiner+%7C+CFE+Certified;Digital+Evidence+%7C+Data+Recovery+Expert;Malware+Analysis+%7C+Network+Forensics;Ethical+Hacker+%7C+Cybersecurity+Researcher" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Cyber+Forensic+Examiner+%7C+CFE+Certified;Digital+Evidence+%7C+Data+Recovery+Expert;Malware+Analysis+%7C+Network+Forensics;Ethical+Hacker+%7C+Cybersecurity+Researcher" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GuhaneshL&style=flat-square&color=70a5fd&label=Profile+Views" />
-  <img src="https://img.shields.io/badge/CFE-Certified-70A5FD?style=flat-square&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-bf91f3?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-38bdae?style=flat-square&logo=clockify&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=GuhaneshL&style=flat-square&color=ffffff&label=Profile+Views" />
+  <img src="https://img.shields.io/badge/CFE-Certified-ffffff?style=flat-square&logo=shield&logoColor=000000&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-ffffff?style=flat-square&logo=googlemaps&logoColor=000000&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-ffffff?style=flat-square&logo=clockify&logoColor=000000&labelColor=000000" />
 </p>
 
 ---
@@ -60,31 +60,31 @@ print(me.motto())
 ## 🛠️ Tech & Tools
 
 ### 🔐 Cyber & Digital Forensics
-![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-0d1117?style=flat-square&logo=microsoftdefender&logoColor=70A5FD)
-![Data Recovery](https://img.shields.io/badge/Data%20Recovery-0d1117?style=flat-square&logo=harddrive&logoColor=BF91F3)
-![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-0d1117?style=flat-square&logo=virustotal&logoColor=38BDAE)
-![Network Forensics](https://img.shields.io/badge/Network%20Forensics-0d1117?style=flat-square&logo=wireshark&logoColor=70A5FD)
-![E-Discovery](https://img.shields.io/badge/E--Discovery-0d1117?style=flat-square&logo=elasticsearch&logoColor=BF91F3)
-![Chain of Custody](https://img.shields.io/badge/Chain%20of%20Custody-0d1117?style=flat-square&logo=shieldcheck&logoColor=38BDAE)
+![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-000000?style=flat-square&logo=microsoftdefender&logoColor=ffffff)
+![Data Recovery](https://img.shields.io/badge/Data%20Recovery-000000?style=flat-square&logo=harddrive&logoColor=ffffff)
+![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-000000?style=flat-square&logo=virustotal&logoColor=ffffff)
+![Network Forensics](https://img.shields.io/badge/Network%20Forensics-000000?style=flat-square&logo=wireshark&logoColor=ffffff)
+![E-Discovery](https://img.shields.io/badge/E--Discovery-000000?style=flat-square&logo=elasticsearch&logoColor=ffffff)
+![Chain of Custody](https://img.shields.io/badge/Chain%20of%20Custody-000000?style=flat-square&logo=shieldcheck&logoColor=ffffff)
 
 ### 💻 Languages & Scripting
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=flat-square&logo=openai&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=ffffff)
+![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ffffff)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=flat-square&logo=openai&logoColor=ffffff)
 
 ### 🌐 Networking & Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking%20Engineering-0d1117?style=flat-square&logo=ethernet&logoColor=70A5FD)
-![Server Setup](https://img.shields.io/badge/Server--Side%20Setup-0d1117?style=flat-square&logo=serverfault&logoColor=BF91F3)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-0d1117?style=flat-square&logo=raspberrypi&logoColor=38BDAE)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=ffffff)
+![CCNA](https://img.shields.io/badge/CCNA-000000?style=flat-square&logo=cisco&logoColor=ffffff)
+![Networking](https://img.shields.io/badge/Networking%20Engineering-000000?style=flat-square&logo=ethernet&logoColor=ffffff)
+![Server Setup](https://img.shields.io/badge/Server--Side%20Setup-000000?style=flat-square&logo=serverfault&logoColor=ffffff)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-000000?style=flat-square&logo=raspberrypi&logoColor=ffffff)
 
 ### 🤖 AI & Context Engineering
-![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
-![Context Engineering](https://img.shields.io/badge/Context%20Engineering-8B5CF6?style=flat-square&logo=openai&logoColor=white)
-![Token Optimization](https://img.shields.io/badge/Token%20Optimization-70A5FD?style=flat-square&logo=anthropic&logoColor=white)
-![Few-shot Prompting](https://img.shields.io/badge/Few--shot%20Prompting-BF91F3?style=flat-square&logo=huggingface&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=ffffff)
+![Context Engineering](https://img.shields.io/badge/Context%20Engineering-000000?style=flat-square&logo=openai&logoColor=ffffff)
+![Token Optimization](https://img.shields.io/badge/Token%20Optimization-000000?style=flat-square&logo=anthropic&logoColor=ffffff)
+![Few-shot Prompting](https://img.shields.io/badge/Few--shot%20Prompting-000000?style=flat-square&logo=huggingface&logoColor=ffffff)
 
 ---
 
@@ -92,10 +92,10 @@ print(me.motto())
 
 <div align="center">
   <a href="https://github.com/GuhaneshL">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuhaneshL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuhaneshL&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc&border_radius=10" />
   </a>
   <a href="https://github.com/GuhaneshL">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuhaneshL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuhaneshL&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&langs_count=8&border_radius=10" />
   </a>
 </div>
 
@@ -104,7 +104,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GuhaneshL&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=GuhaneshL&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666&currStreakNum=ffffff&sideNums=cccccc&stroke=000000&border_radius=10" />
 </div>
 
 ---
@@ -112,7 +112,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuhaneshL&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuhaneshL&bg_color=000000&color=ffffff&line=aaaaaa&point=ffffff&area=true&hide_border=true&area_color=333333" />
 </div>
 
 ---
@@ -120,7 +120,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GuhaneshL&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GuhaneshL&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 </div>
 
 ---
@@ -132,11 +132,11 @@ print(me.motto())
 
 <br/>
 
-> ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-0d1117?style=flat-square&logo=microsoftdefender&logoColor=70A5FD)
-> ![Data Imaging](https://img.shields.io/badge/Data%20Imaging-0d1117?style=flat-square&logo=harddrive&logoColor=BF91F3)
-> ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-0d1117?style=flat-square&logo=virustotal&logoColor=38BDAE)
-> ![Evidence Handling](https://img.shields.io/badge/Evidence%20Handling-0d1117?style=flat-square&logo=shieldcheck&logoColor=70A5FD)
-> ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-0d1117?style=flat-square&logo=wireshark&logoColor=BF91F3)
+> ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-000000?style=flat-square&logo=microsoftdefender&logoColor=ffffff)
+> ![Data Imaging](https://img.shields.io/badge/Data%20Imaging-000000?style=flat-square&logo=harddrive&logoColor=ffffff)
+> ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-000000?style=flat-square&logo=virustotal&logoColor=ffffff)
+> ![Evidence Handling](https://img.shields.io/badge/Evidence%20Handling-000000?style=flat-square&logo=shieldcheck&logoColor=ffffff)
+> ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-000000?style=flat-square&logo=wireshark&logoColor=ffffff)
 
 - 🔍 Executed **comprehensive data imaging and data recovery** procedures on various digital media, ensuring full preservation of original evidence integrity.
 - ⚖️ Assisted in handling **live legal cases** by documenting chain of custody and preparing court-ready forensic reports for judicial proceedings.
@@ -150,9 +150,9 @@ print(me.motto())
 
 <br/>
 
-> ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-0d1117?style=flat-square&logo=kalilinux&logoColor=70A5FD)
-> ![Data Recovery](https://img.shields.io/badge/Data%20Recovery-0d1117?style=flat-square&logo=harddrive&logoColor=BF91F3)
-> ![Legal Compliance](https://img.shields.io/badge/Legal%20Compliance-0d1117?style=flat-square&logo=balance-scale&logoColor=38BDAE)
+> ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-000000?style=flat-square&logo=kalilinux&logoColor=ffffff)
+> ![Data Recovery](https://img.shields.io/badge/Data%20Recovery-000000?style=flat-square&logo=harddrive&logoColor=ffffff)
+> ![Legal Compliance](https://img.shields.io/badge/Legal%20Compliance-000000?style=flat-square&logo=balance-scale&logoColor=ffffff)
 
 - 🔎 Served as a **private volunteer investigator**, supporting the Tamil Nadu Cyber Crime Department across multiple active cases.
 - 💾 Conducted **digital investigations and data recovery** to assist official police inquiries, adhering to strict legal and ethical guidelines.
@@ -220,17 +220,17 @@ print(me.motto())
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/aambalguhanesh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aambalguhanesh@gmail.com)
-[![Phone](https://img.shields.io/badge/8489990847-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918489990847)
-[![GitHub](https://img.shields.io/badge/GuhaneshL-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuhaneshL)
-[![Location](https://img.shields.io/badge/Bengaluru%2C%20India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Bengaluru,India)
+[![Email](https://img.shields.io/badge/aambalguhanesh%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:aambalguhanesh@gmail.com)
+[![Phone](https://img.shields.io/badge/8489990847-000000?style=for-the-badge&logo=whatsapp&logoColor=ffffff)](tel:+918489990847)
+[![GitHub](https://img.shields.io/badge/GuhaneshL-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/GuhaneshL)
+[![Location](https://img.shields.io/badge/Bengaluru%2C%20India-000000?style=for-the-badge&logo=googlemaps&logoColor=ffffff)](https://maps.google.com/?q=Bengaluru,India)
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,000000,111111,222222,333333&height=120&section=footer&animation=twinkling&fontColor=ffffff" />
 </p>
 
 <p align="center">
