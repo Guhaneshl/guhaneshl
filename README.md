@@ -221,7 +221,6 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/aambalguhanesh%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:aambalguhanesh@gmail.com)
-[![Phone](https://img.shields.io/badge/8489990847-000000?style=for-the-badge&logo=whatsapp&logoColor=ffffff)](tel:+918489990847)
 [![GitHub](https://img.shields.io/badge/GuhaneshL-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/GuhaneshL)
 [![Location](https://img.shields.io/badge/Bengaluru%2C%20India-000000?style=for-the-badge&logo=googlemaps&logoColor=ffffff)](https://maps.google.com/?q=Bengaluru,India)
 
