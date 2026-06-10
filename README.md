@@ -17,43 +17,43 @@
 
 ## 🧠 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td valign="top" width="60%">
 
-```python
-#!/usr/bin/env python3
-# Guhanesh L — Cyber Forensic Examiner
+### Hi there, I'm Guhanesh 👋
 
-class GuhaneshL:
-    def __init__(self):
-        self.name        = "Guhanesh L"
-        self.location    = "Bengaluru, India"
-        self.degree      = "B.E. Electrical & Electronics Engineering"
-        self.college     = "Kumaraguru College of Technology (Anna University)"
-        self.cgpa        = 7.84
+🔍 &nbsp;**Name:** Guhanesh L  
+📍 &nbsp;**Location:** Bengaluru, India  
+🎓 &nbsp;**Degree:** B.E. Electrical & Electronics Engineering  
+🏫 &nbsp;**College:** Kumaraguru College of Technology (Anna University)  
+📊 &nbsp;**CGPA:** 7.84 &nbsp;|&nbsp; 🗓️ **Graduated:** April 2023  
 
-        self.stack = [
-            "Digital Forensics", "Data Imaging & Recovery",
-            "Malware Analysis", "Network Penetration Testing",
-            "Ethical Hacking", "E-Discovery", "Bash Scripting",
-            "C Programming", "CCNA", "Prompt Engineering"
-        ]
+---
 
-        self.currently_learning = [
-            "Advanced Threat Intelligence",
-            "Cloud Forensics & IR",
-            "AI-Driven Security Workflows"
-        ]
+🛠️ &nbsp;**Core Stack:**  
+`Digital Forensics` `Data Imaging & Recovery` `Malware Analysis`  
+`Network Penetration Testing` `Ethical Hacking` `E-Discovery`  
+`Bash Scripting` `C Programming` `CCNA` `Prompt Engineering`  
 
-        self.fun_fact = "I recover deleted evidence that criminals thought was gone forever."
+---
 
-    def motto(self):
-        return "🔍 Truth lives in the data — you just have to know where to look."
+📖 &nbsp;**Currently Learning:**  
+→ Advanced Threat Intelligence  
+→ Cloud Forensics & IR  
+→ AI-Driven Security Workflows  
 
-me = GuhaneshL()
-print(me.motto())
-```
+---
 
-<br clear="right"/>
+💡 &nbsp;**Fun Fact:** I recover deleted evidence that criminals thought was gone forever.  
+🔮 &nbsp;**Motto:** *"Truth lives in the data — you just have to know where to look."*
+
+</td>
+<td valign="top" width="40%" align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" />
+</td>
+</tr>
+</table>
 
 ---
 
