@@ -1,100 +1,90 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Guhanesh%20L&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cyber%20Forensic%20Examiner%20%7C%20Security%20Researcher%20%7C%20Team%20Leader&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Guhanesh%20L&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cyber%20Forensic%20Examiner%20%7C%20Security%20Researcher%20%7C%20Digital%20Investigator&descAlignY=62&descSize=16" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Cyber+Forensic+Examiner+%7C+CFE+Certified;Digital+Forensics+%26+Data+Recovery+Expert;Malware+Analyst+%7C+Ethical+Hacker;Volunteered+with+TN+Cyber+Crime+Dept" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Cyber+Forensic+Examiner+%7C+CFE+Certified;Digital+Evidence+%7C+Data+Recovery+Expert;Malware+Analysis+%7C+Network+Forensics;Ethical+Hacker+%7C+Cybersecurity+Researcher" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GuhaneshL&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Cyber%20Forensics-70a5fd?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=GuhaneshL&style=flat-square&color=70a5fd&label=Profile+Views" />
+  <img src="https://img.shields.io/badge/CFE-Certified-70A5FD?style=flat-square&logo=shield&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-bf91f3?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-38bdae?style=flat-square&logo=clockify&logoColor=white" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
+#!/usr/bin/env python3
+# Guhanesh L — Cyber Forensic Examiner
+
 class GuhaneshL:
-    name        = "Guhanesh L"
-    location    = "Bengaluru, India"
-    degree      = "B.E. Electrical & Electronics Engineering"
-    institution = "Kumaraguru College of Technology, Anna University"
-    cgpa        = 7.84
-    graduation  = "April 2024"
+    def __init__(self):
+        self.name        = "Guhanesh L"
+        self.location    = "Bengaluru, India"
+        self.degree      = "B.E. Electrical & Electronics Engineering"
+        self.college     = "Kumaraguru College of Technology (Anna University)"
+        self.cgpa        = 7.84
 
-    role = [
-        "Cyber Forensic Examiner",
-        "Cyber Security Researcher",
-        "Team Leader"
-    ]
+        self.stack = [
+            "Digital Forensics", "Data Imaging & Recovery",
+            "Malware Analysis", "Network Penetration Testing",
+            "Ethical Hacking", "E-Discovery", "Bash Scripting",
+            "C Programming", "CCNA", "Prompt Engineering"
+        ]
 
-    skills = [
-        "Digital Forensics",
-        "Data Imaging & Recovery",
-        "Malware Analysis",
-        "Network Penetration Testing",
-        "Ethical Hacking",
-        "Bash Scripting",
-        "Prompt Engineering"
-    ]
+        self.currently_learning = [
+            "Advanced Threat Intelligence",
+            "Cloud Forensics & IR",
+            "AI-Driven Security Workflows"
+        ]
 
-    currently_learning = [
-        "Advanced Malware Reverse Engineering",
-        "AI-Driven UI/UX  →  Vercel AI SDK",
-        "Context Engineering  →  Token Optimization",
-        "Cloud Forensics",
-    ]
+        self.fun_fact = "I recover deleted evidence that criminals thought was gone forever."
 
-    certifications = ["Professional Cyber Forensics Examiner (CFE)"]
-    languages      = ["English", "Tamil", "Hindi"]
+    def motto(self):
+        return "🔍 Truth lives in the data — you just have to know where to look."
 
-    fun_fact = "I've recovered deleted evidence that cracked real police cases 🕵️"
-
-    @staticmethod
-    def motto():
-        return "Evidence never lies — if you know where to look."
+me = GuhaneshL()
+print(me.motto())
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech & Tools
 
-**Cyber & Forensics**
+### 🔐 Cyber & Digital Forensics
+![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-0d1117?style=flat-square&logo=microsoftdefender&logoColor=70A5FD)
+![Data Recovery](https://img.shields.io/badge/Data%20Recovery-0d1117?style=flat-square&logo=harddrive&logoColor=BF91F3)
+![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-0d1117?style=flat-square&logo=virustotal&logoColor=38BDAE)
+![Network Forensics](https://img.shields.io/badge/Network%20Forensics-0d1117?style=flat-square&logo=wireshark&logoColor=70A5FD)
+![E-Discovery](https://img.shields.io/badge/E--Discovery-0d1117?style=flat-square&logo=elasticsearch&logoColor=BF91F3)
+![Chain of Custody](https://img.shields.io/badge/Chain%20of%20Custody-0d1117?style=flat-square&logo=shieldcheck&logoColor=38BDAE)
 
-![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-0d1117?style=flat-square&logo=databricks&logoColor=70A5FD)
-![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-0d1117?style=flat-square&logo=virustotal&logoColor=BF91F3)
-![Network Forensics](https://img.shields.io/badge/Network%20Forensics-0d1117?style=flat-square&logo=wireshark&logoColor=38BDAE)
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-FF4500?style=flat-square&logo=hackthebox&logoColor=white)
-![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-212121?style=flat-square&logo=kalilinux&logoColor=white)
-![E-Discovery](https://img.shields.io/badge/E--Discovery-1A73E8?style=flat-square&logo=googlecloud&logoColor=white)
-
-**Languages & Scripting**
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### 💻 Languages & Scripting
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B35?style=flat-square&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=flat-square&logo=openai&logoColor=white)
 
-**Networking & Infrastructure**
-
-![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+### 🌐 Networking & Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Network%20Engineering-0078D4?style=flat-square&logo=azurenetworking&logoColor=white)
-![Server Setup](https://img.shields.io/badge/Server--Side%20Setup-232F3E?style=flat-square&logo=amazonec2&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-00979D?style=flat-square&logo=arduino&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking%20Engineering-0d1117?style=flat-square&logo=ethernet&logoColor=70A5FD)
+![Server Setup](https://img.shields.io/badge/Server--Side%20Setup-0d1117?style=flat-square&logo=serverfault&logoColor=BF91F3)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-0d1117?style=flat-square&logo=raspberrypi&logoColor=38BDAE)
 
-**AI & Modern Tools**
-
+### 🤖 AI & Context Engineering
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
-![Few-shot Prompting](https://img.shields.io/badge/Few--shot%20Prompting-BF91F3?style=flat-square&logo=anthropic&logoColor=white)
-![Context Engineering](https://img.shields.io/badge/Context%20Engineering-38BDAE?style=flat-square&logo=openai&logoColor=white)
+![Context Engineering](https://img.shields.io/badge/Context%20Engineering-8B5CF6?style=flat-square&logo=openai&logoColor=white)
+![Token Optimization](https://img.shields.io/badge/Token%20Optimization-70A5FD?style=flat-square&logo=anthropic&logoColor=white)
+![Few-shot Prompting](https://img.shields.io/badge/Few--shot%20Prompting-BF91F3?style=flat-square&logo=huggingface&logoColor=white)
 
 ---
 
@@ -138,29 +128,35 @@ class GuhaneshL:
 ## 💼 Work Experience
 
 <details>
-<summary><b>🔬 Zetpeak — Cyber Forensic Examiner | Cyber Security Researcher</b> &nbsp;|&nbsp; Sep 2023 – Present &nbsp;|&nbsp; Bengaluru, India</summary>
+<summary>🏢 <strong>Zetpeak</strong> — Cyber Forensic Examiner & Cyber Security Researcher &nbsp;|&nbsp; Sep 2023 – Present &nbsp;|&nbsp; Bengaluru, India</summary>
 
 <br/>
 
-> ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-0d1117?style=flat-square&logoColor=70A5FD) ![Data Recovery](https://img.shields.io/badge/Data%20Recovery-0d1117?style=flat-square&logoColor=BF91F3) ![Chain of Custody](https://img.shields.io/badge/Chain%20of%20Custody-0d1117?style=flat-square&logoColor=38BDAE) ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-0d1117?style=flat-square&logoColor=white) ![Forensic Reports](https://img.shields.io/badge/Forensic%20Reports-0d1117?style=flat-square&logoColor=white)
+> ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-0d1117?style=flat-square&logo=microsoftdefender&logoColor=70A5FD)
+> ![Data Imaging](https://img.shields.io/badge/Data%20Imaging-0d1117?style=flat-square&logo=harddrive&logoColor=BF91F3)
+> ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-0d1117?style=flat-square&logo=virustotal&logoColor=38BDAE)
+> ![Evidence Handling](https://img.shields.io/badge/Evidence%20Handling-0d1117?style=flat-square&logo=shieldcheck&logoColor=70A5FD)
+> ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-0d1117?style=flat-square&logo=wireshark&logoColor=BF91F3)
 
-- 🗂️ Executed comprehensive **data imaging and data recovery** procedures on diverse digital media, ensuring full preservation of original evidence integrity
-- ⚖️ Assisted in handling **active legal cases** by meticulously documenting chain of custody and preparing forensic reports for court proceedings
-- 🔍 Conducted **in-depth digital evidence analysis** to identify, extract, and preserve key data points critical to ongoing investigations
-- 🤖 Managed development of **automated digital forensics modules** for the Zetpeak software team, streamlining forensic examination workflows and accelerating report generation
+- 🔍 Executed **comprehensive data imaging and data recovery** procedures on various digital media, ensuring full preservation of original evidence integrity.
+- ⚖️ Assisted in handling **live legal cases** by documenting chain of custody and preparing court-ready forensic reports for judicial proceedings.
+- 🧩 Conducted **in-depth analysis of digital evidence** to identify, extract, and preserve critical data points supporting active investigations.
+- 🛡️ Performed **malware analysis, network forensics, and ethical hacking** assessments as part of ongoing cybersecurity research initiatives.
 
 </details>
 
 <details>
-<summary><b>🕵️ Tamil Nadu Cyber Crime Department — Cyber Forensics Investigator (Private Volunteer)</b> &nbsp;|&nbsp; Volunteer</summary>
+<summary>🚔 <strong>Tamil Nadu Cyber Crime Department</strong> — Cyber Forensics Investigator (Private Volunteer) &nbsp;|&nbsp; Volunteer</summary>
 
 <br/>
 
-> ![Digital Investigation](https://img.shields.io/badge/Digital%20Investigation-0d1117?style=flat-square&logoColor=70A5FD) ![Data Recovery](https://img.shields.io/badge/Data%20Recovery-0d1117?style=flat-square&logoColor=BF91F3) ![Legal Compliance](https://img.shields.io/badge/Legal%20Compliance-0d1117?style=flat-square&logoColor=38BDAE)
+> ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-0d1117?style=flat-square&logo=kalilinux&logoColor=70A5FD)
+> ![Data Recovery](https://img.shields.io/badge/Data%20Recovery-0d1117?style=flat-square&logo=harddrive&logoColor=BF91F3)
+> ![Legal Compliance](https://img.shields.io/badge/Legal%20Compliance-0d1117?style=flat-square&logo=balance-scale&logoColor=38BDAE)
 
-- 🚔 Served as a **private investigator**, directly assisting the Tamil Nadu Cyber Crime Department on multiple active cases
-- 💾 Conducted **digital investigations and data recovery** operations to support official police inquiries, adhering strictly to legal and ethical guidelines
-- 📋 Produced detailed forensic reports that contributed to **supporting police case documentation** and evidentiary submissions
+- 🔎 Served as a **private volunteer investigator**, supporting the Tamil Nadu Cyber Crime Department across multiple active cases.
+- 💾 Conducted **digital investigations and data recovery** to assist official police inquiries, adhering to strict legal and ethical guidelines.
+- 📋 Maintained full compliance with **chain of custody protocols** and documented all forensic findings for law enforcement use.
 
 </details>
 
@@ -170,26 +166,27 @@ class GuhaneshL:
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|:--------|:------|:-----------|
-| [**Digital Forensics Automation Software**](https://github.com/GuhaneshL) | `Python` `Bash` `Digital Forensics Tools` | Managed development of automated forensics modules for Zetpeak; produced detailed analytical reports supporting active investigative cases; reduced manual examination time across multiple evidence workflows |
-| [**Cyber Forensics Investigation — TN Cyber Crime**](https://github.com/GuhaneshL) | `Digital Forensics` `Data Recovery` `Evidence Handling` | Conducted real-world digital investigations and evidence recovery for official police inquiries; adhered to strict legal and ethical protocols as a certified volunteer investigator |
+| 🗂️ Project | ⚙️ Stack | ✨ Highlights |
+|:---|:---|:---|
+| [**Digital Forensics Automation Software**](https://github.com/GuhaneshL) | `Python` `Bash` `Linux` `Forensics Tools` | Project Manager — Developed automated digital forensics modules for the Zetpeak software team; produced analytical reports supporting active investigative cases |
+| [**Cyber Forensics Investigation (TN Cyber Crime)**](https://github.com/GuhaneshL) | `Digital Forensics` `Data Recovery` `E-Discovery` `Chain of Custody` | Volunteer forensic investigator supporting official TN police inquiries; conducted data recovery under strict legal and ethical frameworks |
 
 </div>
 
 ---
 
-## 🏅 Achievements & Certifications
+## 🏅 Achievements
 
 <div align="center">
 
 | 🏆 | Achievement | Details |
-|:--:|:------------|:--------|
-| 🎓 | **Professional Cyber Forensics Examiner (CFE)** | Certified by Zetpeak Academy, Bangalore — June–August 2024 |
-| 🕵️ | **Private Volunteer — TN Cyber Crime Department** | Assisted Tamil Nadu Police in real cyber-crime investigations with legal & ethical compliance |
-| 🛠️ | **Project Manager — Forensics Automation** | Led automated forensics module development for Zetpeak's software team |
-| 🌐 | **CCNA Certified Knowledge** | Routing & Switching — Cisco Networking fundamentals |
-| 📡 | **Multilingual Professional** | Fluent in English, Tamil & Hindi — enabling cross-regional case collaboration |
+|:---:|:---|:---|
+| 🎓 | **Professional Cyber Forensics Examiner (CFE)** | Certified — June to August 2023 |
+| 🔬 | **2+ Years Digital Forensics Experience** | Comprehensive data imaging, recovery & evidence handling at Zetpeak |
+| ⚖️ | **Legal Forensics Contributor** | Prepared court-ready forensic reports for live judicial proceedings |
+| 🚔 | **TN Cyber Crime Volunteer Investigator** | Assisted Tamil Nadu Cyber Crime Department on active police cases |
+| 🎓 | **B.E. EEE — CGPA 7.84** | Kumaraguru College of Technology, Anna University — Graduated April 2023 |
+| 🌐 | **Trilingual** | Fluent in English, Tamil & Hindi |
 
 </div>
 
@@ -199,48 +196,43 @@ class GuhaneshL:
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|:-------|:------------|:----:|:-----:|
-| B.E. Electrical & Electronics Engineering | Kumaraguru College of Technology, Anna University, Coimbatore | April 2023 | CGPA: 7.84 |
+| 📜 Degree | 🏫 Institution | 📅 Year | 🎯 Score |
+|:---|:---|:---:|:---:|
+| B.E. Electrical & Electronics Engineering | Kumaraguru College of Technology (Anna University), Coimbatore | April 2023 | **7.84 CGPA** |
 
 </div>
 
 ---
 
-## 🧱 Currently Learning
+## 📚 Currently Learning
 
-```
-🔬 Advanced Malware Analysis     →  Reverse Engineering, Static & Dynamic Analysis
-☁️  Cloud Forensics               →  AWS Evidence Acquisition, Cloud Chain of Custody
-🤖 AI-Driven UI/UX               →  Vercel AI SDK, Component Streaming, Dynamic Rendering
-🧠 Context Engineering           →  Context Window Management, Token Optimization, Few-shot Prompting
-🌐 Network Penetration Testing   →  Advanced Exploitation, Post-Exploitation Techniques
+```bash
+🧱 Cloud Forensics      → AWS Evidence Collection, Azure Log Analysis, Cloud IR
+🧠 Threat Intelligence  → MITRE ATT&CK, IOC Analysis, Dark Web Monitoring
+🤖 AI-Driven Security   → LLM Security, Prompt Injection Defence, AI Forensics
+🔐 Advanced Malware     → Reverse Engineering, Sandbox Analysis, YARA Rules
+🌐 Network Hardening    → Zero Trust Architecture, SOC Operations, SIEM Tools
 ```
 
 ---
 
-## 📬 Connect with Me
+## 📬 Connect With Me
 
-<p align="center">
-  <a href="mailto:aambalguhanesh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-aambalguhanesh%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="tel:+918489990847">
-    <img src="https://img.shields.io/badge/Phone-8489990847-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/GuhaneshL">
-    <img src="https://img.shields.io/badge/GitHub-GuhaneshL-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/aambalguhanesh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aambalguhanesh@gmail.com)
+[![Phone](https://img.shields.io/badge/8489990847-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918489990847)
+[![GitHub](https://img.shields.io/badge/GuhaneshL-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuhaneshL)
+[![Location](https://img.shields.io/badge/Bengaluru%2C%20India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Bengaluru,India)
+
+</div>
 
 ---
-
-<p align="center">
-  <i>"Evidence never lies — if you know where to look."</i>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+</p>
+
+<p align="center">
+  <i>⚡ "Truth lives in the data — you just have to know where to look." ⚡</i>
 </p>
